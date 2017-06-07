@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\Oskar\\AppData\\Local\\Temp\\d-1161011-9316-xtphg9\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\Oskar\\AppData\\Local\\Temp\\d-1161011-9316-xtphg9\\package.tgz",
+        "spec": "C:\\Users\\Oskar\\AppData\\Local\\Temp\\d-1161011-9316-xtphg9\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\Oskar\\AppData\\Local\\Temp\\apm-install-dir-1161011-9316-1s4xlf4"
+    ]
+  ],
+  "_from": "..\\d-1161011-9316-xtphg9\\package.tgz",
+  "_id": "miami-nights-syntax@0.3.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/miami-nights-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\Oskar\\AppData\\Local\\Temp\\d-1161011-9316-xtphg9\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\Oskar\\AppData\\Local\\Temp\\d-1161011-9316-xtphg9\\package.tgz",
+    "spec": "C:\\Users\\Oskar\\AppData\\Local\\Temp\\d-1161011-9316-xtphg9\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-1161011-9316-xtphg9\\package.tgz",
+  "_shasum": "b0823c47507c57a7af56cc663776b0268cad8bb1",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\Oskar\\AppData\\Local\\Temp\\d-1161011-9316-xtphg9\\package.tgz",
+  "_where": "C:\\Users\\Oskar\\AppData\\Local\\Temp\\apm-install-dir-1161011-9316-1s4xlf4",
+  "bugs": {
+    "url": "https://github.com/DorianCBrwn/miami-nights-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Miami vice inspired theme based on by neon-syntax : https://atom.io/themes/neon-syntax and steam-pirate-syntax: https://github.com/v3ss0n/steam-pirate-syntax. Colors were hand picked from the 1980's TV show Miami Vice",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/DorianCBrwn/miami-nights-syntax#readme",
+  "license": "MIT",
+  "name": "miami-nights-syntax",
+  "optionalDependencies": {},
+  "readme": "<p align=\"center\"><img src=\"https://github.com/DorianCBrwn/miami-nights-syntax/blob/master/assets/Miami%20Nights%20Half%20moon%20logo.png?raw=true\" alt=\"Miami-Nights syntax theme for Atom\" width=\"300px\" height=\"200px\"></p>\n\nMiami vice inspired theme\nbased on by neon-syntax : https://atom.io/themes/neon-syntax\nand steam-pirate-syntax: https://github.com/v3ss0n/steam-pirate-syntax.  \nColors were hand picked from the 1980's TV show Miami Vice\"  \n\n\n\n## Supported languages\n\n###  Clojure\n<p><img src=\"https://github.com/DorianCBrwn/miami-nights-syntax/blob/master/assets/screenshot-clojure.png?raw=true\" alt=\"Clojure screenshot\"></p>\n---\n\n###  CSS\n<p><img src=\"https://github.com/DorianCBrwn/miami-nights-syntax/blob/master/assets/screenshot-css.png?raw=true\" alt=\"CSS screenshot\"></p>  \n\n### HTML\n<p><img src=\"https://github.com/DorianCBrwn/miami-nights-syntax/blob/master/assets/screenshot-html.png?raw=true\" alt=\"HTML screenshot\"></p>  \n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DorianCBrwn/miami-nights-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.3.3"
+}
